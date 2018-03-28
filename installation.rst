@@ -2,7 +2,7 @@
 Installation
 ============
 
-Install the package with pip::
+Install the package with pip
 
-TESTE
+install test
 
